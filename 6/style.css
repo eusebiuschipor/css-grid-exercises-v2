@@ -1,0 +1,20 @@
+header {
+    background-color: blue;
+    color: white;
+    grid-area: hd;
+}
+
+main {
+    background: red;
+    color: white;
+}
+
+aside {
+    background: green;
+    color: white;
+}
+
+footer {
+    background: purple;
+    color: white;
+}
